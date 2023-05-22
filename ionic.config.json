@@ -1,0 +1,7 @@
+{
+  "name": "Soundboard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
